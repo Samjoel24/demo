@@ -1,2 +1,2 @@
 # demo
-IBM Coursera
+IBM Coursera demo
